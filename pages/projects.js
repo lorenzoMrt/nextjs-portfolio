@@ -9,6 +9,11 @@ export default function Projects() {
         name="Portfolio"
         link="https://github.com/lorenzoMrt/nextjs-portfolio"
       />
+      <ProjectCard
+        image="/issue-tracker.png"
+        name="Issue tracker"
+        link="https://github.com/lorenzoMrt/react-query-course"
+      />
     </VStack>
   );
 }
