@@ -12,7 +12,7 @@ export default function Navbar() {
       py={4}
     >
       <Link href="/">Home</Link>
-      <Link href="/posts">Posts</Link>
+      <Link href="/certificates">Certificates</Link>
       <Link href="/projects">Projects</Link>
     </Flex>
   );

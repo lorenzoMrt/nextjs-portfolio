@@ -38,9 +38,9 @@ export default function Home() {
       </VStack>
       <Text textAlign="center">
         👋 Hi! My names Lorenzo. I have been a software engineer over the last 4
-        years, with high proficiency in backend and frontend and some knowledge
-        on DevOps. I love video games, sports, and learning new things everyday.{" "}
-        <br /> Lets connect 👇
+        years, with high proficiency as a full stack developer and also with
+        knowledge on DevOps. I love video games, sports, and learning new things
+        everyday. <br /> Lets connect 👇
       </Text>
       <HStack spacing="20px" justifySelf="center">
         <Link href="https://www.linkedin.com/in/lorenzo-miret/" target="_blank">
@@ -49,7 +49,7 @@ export default function Home() {
         <Link href="https://github.com/lorenzoMrt" target="_blank">
           <Icon color="black" as={FaGithub} />
         </Link>
-        <Link href="/cv.pdf" target="_blank">
+        <Link href="/cv-2023.pdf" target="_blank">
           <Icon color="black" as={FaFilePdf}></Icon>
         </Link>
       </HStack>
