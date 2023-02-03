@@ -37,10 +37,14 @@ export default function Home() {
         </Heading>
       </VStack>
       <Text textAlign="center">
-        👋 Hi! My names Lorenzo. I have been a software engineer over the last 4
-        years, with high proficiency as a full stack developer and also with
-        knowledge on DevOps. I love video games, sports, and learning new things
-        everyday. <br /> Lets connect 👇
+        👋 Hi! My names Lorenzo. As a seasoned full stack developer with over 4
+        years of experience, I have honed my skills in Java, Springboot, React,
+        TypeScript and AWS services. My work in startups and medium companies
+        has provided me with a diverse range of experience and the ability to
+        work effectively in fast-paced environments. I am a self-starter with a
+        passion for developing scalable and efficient solutions, and I am eager
+        to bring my expertise to a new challenge as a full stack developer.
+        <br /> Lets connect 👇
       </Text>
       <HStack spacing="20px" justifySelf="center">
         <Link href="https://www.linkedin.com/in/lorenzo-miret/" target="_blank">
